@@ -5,7 +5,7 @@
 	<groupId>com.sample</groupId>
 	<artifactId>SampleWebApp123</artifactId>
 	<packaging>war</packaging>
-	<version>1.0</version>
+	<version>1.0-SNAPHOT</version>
 	<name>SampleWebApp123 Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
