@@ -78,7 +78,6 @@
 		<url>https://github.com/jeromelandreau/maven</url>
 		<connection>scm:git:https://github.com/jeromelandreau/maven.git</connection>
 		<developerConnection>scm:git:https://github.com/jeromelandreau/maven.git</developerConnection>
-		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
