@@ -77,7 +77,8 @@
 		<url>https://github.com/jeromelandreau/maven</url>
 		<connection>scm:git:git://github.com/jeromelandreau/maven.git</connection>
 		<developerConnection>scm:git:git@github.com:jeromelandreau/maven.git</developerConnection>
-	</scm>
+	  <tag>SampleWebApp123-1.0</tag>
+  </scm>
 
 	<repositories>
 		<repository>
